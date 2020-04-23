@@ -24,6 +24,7 @@ Laravel Zero is an open-source software licensed under the [MIT license](https:/
 	* every commands i put into /app (library needs)
 	* app.php & commands.php i put into /config
 3. modify composer.json to instantly build the apps
+4. add app:build, app:install, app:rename & make:command to make it easier
 
 ## Result
 
